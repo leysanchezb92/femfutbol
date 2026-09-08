@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "FC Barcelona Femení",
+    "shortName": "Barcelona",
+    "country": "Spain",
+    "league": "Liga F",
+    "titles": 4,
+    "color": "#A50044",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg"
+  },
+  {
+    "id": 2,
+    "name": "OL Lyonnes Féminin",
+    "shortName": "Lyon",
+    "country": "France",
+    "league": "Division 1 Féminine",
+    "titles": 8,
+    "color": "#0046A8",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/e/e2/Olympique_Lyonnais_%28logo%29.svg"
+  },
+  {
+    "id": 3,
+    "name": "Chelsea FC Women",
+    "shortName": "Chelsea",
+    "country": "England",
+    "league": "WSL",
+    "titles": 1,
+    "color": "#034694",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg"
+  },
+  {
+    "id": 4,
+    "name": "Arsenal Women",
+    "shortName": "Arsenal",
+    "country": "England",
+    "league": "WSL",
+    "titles": 1,
+    "color": "#EF0107",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg"
+  },
+  {
+    "id": 5,
+    "name": "VfL Wolfsburg Women",
+    "shortName": "Wolfsburg",
+    "country": "Germany",
+    "league": "Frauen-Bundesliga",
+    "titles": 2,
+    "color": "#65B32E",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo-VfL-Wolfsburg.svg"
+  },
+  {
+    "id": 6,
+    "name": "Real Madrid Femenino",
+    "shortName": "Real Madrid",
+    "country": "Spain",
+    "league": "Liga F",
+    "titles": 0,
+    "color": "#FEBE10",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg"
+  }
+]
