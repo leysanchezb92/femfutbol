@@ -1,0 +1,12 @@
+.team-card {
+  display: flex;
+  flex-direction: column;
+}
+
+.team-logo {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+  align-self: center;
+  margin: 50px;
+}
