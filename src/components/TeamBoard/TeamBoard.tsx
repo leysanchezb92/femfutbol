@@ -1,5 +1,5 @@
 import "./TeamBoard.css";
-import TeamCard from "../TeamCard";
+import TeamCard from "../TeamCard/TeamCard";
 
 interface Team {
   color?: string;
