@@ -22,8 +22,8 @@ export default function TeamBoard({ teams }: TeamBoardProps) {
           key={team.name}
           color={team.color}
           teamCountry={team.country}
-          teamName={team.league}
-          teamLeague={team.country}
+          teamName={team.name}
+          teamLeague={team.league}
           teamLogo={team.logo}
           teamTitles={team.titles > 0 ? team.titles : "En progreso"}
         />
